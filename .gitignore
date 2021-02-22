@@ -28,7 +28,6 @@ org-mode-config.el
 .DS_Store
 org-clock-save.el
 emacs-config.el
-.vscode
 node_modules
 Nese_OMS_NEstedforOMSWS.json
 test/template-validation-tests/package-lock.json
@@ -37,3 +36,4 @@ test/template-validation-tests/mochawesome-report/*
 test/AzTemplateToolKit.zip
 test/arm-template-toolkit.zip
 test/ci-scripts/azuredeploy.parameters.new.json
+config.bat
